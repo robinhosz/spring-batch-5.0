@@ -26,11 +26,10 @@ A simple example of hello world using spring batch in version 5.0
 
 
 <br />
-<br />
+
 
 :point_down: Get in touch!
 
-<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-robson-52b0bb208)](https://www.linkedin.com/in/josé-robson-52b0bb208)
 
